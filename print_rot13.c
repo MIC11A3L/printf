@@ -6,7 +6,7 @@
  * @args: va_list that contains the number to print
  * Return: number of characters printed
  */
-int print_rot13(char *format, va_list args)
+int _print_rot13(char *format, va_list args)
 {
 	char *string = va_arg(args, char *);
 	int i, count = 0;
