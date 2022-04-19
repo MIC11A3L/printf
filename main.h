@@ -24,7 +24,7 @@ int _print_string(va_list ap);
 int _print_percent(va_list ap);
 int _print_int(va_list ap);
 int _print_reverse(va_list ap);
-int _print_rot13(va_list ap);
+int print_rot13(char *format, va_list args)
 int _print_unsigned(va_list ap);
 int _print_octal(va_list ap);
 int _print_binary(va_list ap);
