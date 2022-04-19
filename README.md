@@ -1,6 +1,9 @@
-0x10. C - printf
+## 0x10. C - printf
 Description
 This team project is part of the first year curriculum of Holberton School. _printf replicates the C standard library printf() function.
+
+## Authors
+Abdulkareem Mustapha -@aphatheology and Ukachukwu Micheal -@MIC11A3L
 
 What you should learn from this project:
 
